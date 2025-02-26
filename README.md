@@ -1,10 +1,10 @@
 
-### Hi there 👋 I'm Nabarun Barua. 🔭 I’m currently working on NLP Projects.
+### Hi there 👋 I'm Sathish Kumar 🔭 I’m a Senior Architect 
 
 ### My Technical Expertise is in -
-* Working in Deep Learning NLP
-* Working in Computer Vision
-<br>
+* Cloud Platforms - Azure , GCP 
+* AI Platforms - Predictive and Generative AI
+* 
 
 <hr>
 <h3 align="left">Languages and Tools:</h3>
@@ -20,20 +20,20 @@
 
 <hr>
 
-[linkedin]: https://www.linkedin.com/in/nabarun-barua-aiml-engineer/
+[linkedin]: https://www.linkedin.com/in/ssathishk/
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nabarunbaruaAIML&label=Profile%20views&color=0e75b6&style=flat" alt="nabarunbaruaAIML" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=nabarunbaruaAIML&label=Profile%20views&color=0e75b6&style=flat" alt="nabarunbaruaAIML](https://komarev.com/ghpvc/?username=nabarunbaruaAIML&label=Profile%20views&color=0e75b6&style=flat" alt="nabarunbaruaAIML)" /> </p>
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nabarunbaruaAIML&" alt="nabarunbaruaAIML" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sathishkumar19&" alt="sathishkumar19" /></p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=nabarunbaruaAIML&count_private=true&show_icons=true&include_all_commits=true" alt="Nabarun"  />
+<img src="https://github-readme-stats.vercel.app/api?username=sathishkumar19&count_private=true&show_icons=true&include_all_commits=true" alt="Sathish Kumar"  />
 
 <!--
-**nabarunbaruaAIML/nabarunbaruaAIML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Sathish Kumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
